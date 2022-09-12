@@ -1,0 +1,431 @@
+@media screen and (max-width: 767px) {
+    .container {
+        padding: 10px 5%;
+    }
+
+    .header-right {
+        float: inherit;
+        width: auto;
+        margin: 0;
+    }
+
+    .top-content ul.ul1 {
+        padding: 0 0 21px 0;
+        text-align: center;
+    }
+
+    .top-content ul.ul1 li {
+    display: inherit;padding: 0 0 0 10px;}
+
+    .row {
+        margin: 0;
+        display: initial;
+    }
+
+    .header-left {
+        width: auto;
+        float: inherit;
+        margin: 0 0 18px;
+    }
+
+    .header-left img {
+        width: 101px;
+    display: block;}
+
+    .top-content.clearix {
+    }
+
+    input#txtsearch1 {
+        width: 100%;
+        display: block;
+    }
+
+    .controls-right {
+        position: absolute;
+        right: 0;
+        float: inherit;
+        width: 50%;
+        top: 0;
+        padding: 0;
+    }
+
+    .text-search {
+        float: inherit;
+        width: auto;
+    }
+
+    button#btnsearch {
+        position: absolute;
+        right: 0;
+    }
+
+    .header-cart {
+        top: 40px;
+        right: 20px;
+        bottom: initial;
+    }
+
+    ul.menu-laptopcdc {
+        display: none;
+        height: auto;
+        margin: 0 -5.5%;
+    }
+
+    .slide_top_l {
+        width: auto;
+        float: inherit;
+    }
+
+    .slide_top_r {
+        width: auto;
+        float: inherit;
+    }
+
+    .title_home > p {
+        margin: 10px 0 0 -1px;
+        font-size: 13px;
+    }
+
+    .title_home > h2 {
+        font-size: 12px;
+    }
+
+    .tintuc_item {
+        width: auto;
+        float: inherit;
+    }
+
+    .laptop_hot_home_l {
+        width: auto;
+        float: inherit;
+    }
+
+    .laptop_hot_home_r {
+        width: auto;
+        float: inherit;
+    }
+
+    .laptop_hot_item {
+        width: auto;
+        float: inherit;
+        padding: 0;
+    }
+
+    .laptop_item {
+        padding: 10px 0 10px;
+    }
+
+    .end-left-1 {
+        width: auto;
+        float: inherit;
+    }
+
+    .end-left-2 {
+        width: auto;
+        float: inherit;
+    }
+
+    .end-right-1 {
+        width: auto;
+        float: inherit;
+    }
+
+    .end-right-2 {
+        width: auto;
+        float: inherit;
+    }
+
+    .end-left.clearfix {
+        width: auto;
+        float: inherit;
+    }
+
+    .end-right.clearfix {
+        width: auto;
+        float: inherit;
+    }
+    .form-search.controls {
+        position: relative;
+    }
+
+    select#lbgroup {
+        width: 100%;
+        display: block;
+    }
+
+    .select-categories {
+        width: 100%;
+    }
+    .menu-laptopcdc > li {
+        float: inherit;
+        display: block;
+        border-bottom: 1px solid #fff;
+        padding: 0 5%;
+    }
+
+    .menu-laptopcdc > li a {
+        padding: 10px 0;
+    }
+    .menu-laptopcdc > li:hover > ul {
+        left: 0;
+        width: 100%;
+        padding: 0 5%;
+        background: #f5f5f5;
+    }
+
+    .menu-laptopcdc > li:hover > ul li a {
+        color: #000;
+    }
+    button.menu_mobi {
+        display: block;
+    }
+    .nd > .login {
+        width: auto;
+        padding: 5%;
+    }
+
+    .nd {
+        padding: 0;
+    }
+    .chitietlaptop > .container > .x1 {
+    padding: 10px 5%;
+}
+
+.chitietlaptop > .container {
+    padding: 0;
+}
+
+.chitietlaptop_left {
+    float: right;
+    width: auto;
+    padding: 10px 0 0 0;
+}
+
+.chitietlaptop_right {
+    float: inherit;
+    width: auto;
+    padding: 22px 0 0 0;
+}
+.nd_left {
+    float: inherit;
+    width: auto;
+}
+
+.nd_right {
+    float: inherit;
+    width: auto;
+}
+
+.nd_right > .new_laptop > .laptop_new1,
+.nd_right > .new_laptop > .laptop_new2,
+.nd_right > .new_laptop > .laptop_new3 {
+    float: inherit;
+    width: auto;
+    margin: 0 0 20px;
+}
+.tt_l,
+.tt_c,
+.tt_r {
+    width: auto;
+    float: inherit;
+    margin: 0;
+    padding: 5%;
+}
+.gh1_left,
+.gh1_right,
+.gh2_left,
+.gh2_right,
+.gh2_r1,
+.gh2_r2,
+.gh2_r3 {
+    float: inherit;
+    width: auto;
+    text-align: left;
+    padding: 0;
+}
+
+.gh2_left > img {
+    position: static;
+}
+
+.gh1_right p {
+    width: auto;
+    display: block;
+    margin: 0 0 0;
+}
+
+.gh1 {
+    margin: 10px 0;
+}
+
+}
+
+@media screen and (min-width: 767px) and (max-width: 1190px) {
+    .container {
+        padding: 0 5%;
+    }
+
+    .header-right {
+        margin: 0;
+        float: right;
+        width: auto;
+        padding: 0 41px 0 0;
+        width: 77%;
+    }
+
+    .row {
+        display: block;
+        position: relative;
+    }
+    .header-cart {
+        top: 0;
+        right: 0;
+        bottom: inherit;
+    }
+
+    .top-content ul.ul1 {
+        padding: 0 0 37px 0;
+    }
+
+    .top-content ul.ul1 li {
+        margin: 0 14px 0 0;
+        font-size: 13px;
+    }
+
+    input#txtsearch1 {
+        width: 311px;
+    }
+    .tintuc_item {
+        width: 50%;
+        float: left;
+    }
+
+    .laptop_hot_item {
+        width: 50%;
+        float: left;
+    }
+
+    .laptop_hot_home_r {
+        width: 60%;
+        float: right;
+    }
+
+    .laptop_hot_home_l {
+        width: 40%;
+    }
+
+    .laptop_hot_item:last-child {
+        display: none;
+    }
+
+    .end-left-1 {
+    }
+
+    .end-left {
+        width: 100%;
+        float: inherit;
+    }
+
+    .end-right.clearfix {
+        width: auto;
+        float: inherit;
+        display: block;
+    }
+
+    .end-left-2 {
+        float: right;
+        width: 50%;
+    }
+
+    .end-right-2 {
+        width: 50%;
+        float: right;
+    }
+
+    .end-right-1 {
+        float: left;
+        width: 39%;
+    }
+    .slide_top_main.clearfix {
+        display: block;
+    }
+    .nd > .login {
+        width: auto;
+        padding: 5%;
+    }
+
+    .nd {
+        padding: 0;
+    }
+    .chitietlaptop > .container > .x1 {
+    padding: 10px 5%;
+}
+
+.chitietlaptop > .container {
+    padding: 0;
+}
+
+.chitietlaptop_left {
+    float: right;
+    width: auto;
+    padding: 10px 0 0 0;
+}
+
+.chitietlaptop_right {
+    float: inherit;
+    width: auto;
+    padding: 22px 0 0 0;
+}
+.nd_left {
+    float: inherit;
+    width: auto;
+}
+
+.nd_right {
+    float: inherit;
+    width: auto;
+}
+
+.nd_right > .new_laptop > .laptop_new1,
+.nd_right > .new_laptop > .laptop_new2,
+.nd_right > .new_laptop > .laptop_new3 {
+    float: inherit;
+    width: auto;
+    margin: 0 0 20px;
+}
+.tt_l,
+.tt_c,
+.tt_r {
+    width: auto;
+    float: inherit;
+    margin: 0;
+    padding: 5%;
+}
+.gh1_left,
+.gh1_right,
+.gh2_left,
+.gh2_right,
+.gh2_r1,
+.gh2_r2,
+.gh2_r3 {
+    float: inherit;
+    width: auto;
+    text-align: left;
+    padding: 0;
+}
+
+.gh2_left > img {
+    position: static;
+}
+
+.gh1_right p {
+    width: auto;
+    display: block;
+    margin: 0 0 0;
+}
+
+.gh1 {
+    margin: 10px 0;
+}
+
+}

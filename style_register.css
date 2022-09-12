@@ -1,0 +1,113 @@
+.backgroud-res{
+    background-color:#f1f1f1;
+}
+.mainres{
+    width: 32.5%;
+    margin-top: 20px;
+    margin: auto;
+    border-radius: 5px;
+    background-color: white;
+    text-shadow: #555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+    box-shadow: 2px 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.formres{
+    margin: auto;
+    width: 200px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    
+}
+.textres{
+    width: 415px;
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+.textres1{
+    width: 415px;
+    height: 40px;   
+    padding-left: 0;
+    border-radius: 8px;
+     margin-left: 10px;
+    margin-top: 10px;
+}
+.titleres{
+    
+    margin-top: 30px;
+    text-align: center;
+    color: #000;
+}
+.submitres{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align:center;
+    width: 200px;
+    height: 35px;
+    margin-left: 26%;
+    border-radius: 5px;
+    
+}
+.logores{
+    
+    text-align: center;
+}
+.clr{
+    clear: both;
+}
+.footer-bottom-area-res {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 204, 255);
+    
+}    
+.footer-bottom-area-res {background:white;color: rgb(0, 151, 252)}
+.copyright-res{
+    margin-top: 5%;
+}
+hr{
+    margin: auto;
+    width: 80%;
+    height: 2px;
+}
+.selres{
+    width: 130px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 8px;
+}
+.labelres{
+    font-weight:lighter;
+    box-sizing: border-box;
+    color: #1c1e21;
+    display: inline-block;
+    font-family: SFProText-Medium, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 36px;
+    padding: 0 28px 0 10px;
+    width: 100%;
+}
+.spanres{
+    background-color: #fff;
+    border: 1px solid #ccd0d5;
+    box-sizing: border-box;
+    display: inline-block;
+    flex: 1 0 auto;
+    font-weight: normal;
+    height: 36px;
+    margin: 0px 10px 6px;
+    padding: 0;
+    position: relative;
+    width: 120px;
+    border-radius: 7px;
+}
+.radiores{
+    height: 36px;
+    margin-bottom: 10px;
+    position: absolute;
+    right: 10px;
+    top: -3px;
+}
